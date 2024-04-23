@@ -1,7 +1,6 @@
 # Video-Engagement
 To demonstrate machine learning and coding skills
 
-This code is based on an assignment from the University of Michigan's Coursera course titled Applied Machine Learning in Python. I have expanded on the assignment a bit, adding different kinds of classifiers, ROC curves, performance assessments, etc.
 
 Skills demonstrated: classification, scikit-learn, TensorFlow, model evaluation, general coding
 
